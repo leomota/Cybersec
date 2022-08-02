@@ -84,3 +84,4 @@ Uma coleção alguns canais do Youtube sobre Segurança cibernética.
 82. [Troy Hunt](https://www.youtube.com/c/troyhuntdotcom)
 83. [Tech69](https://www.youtube.com/c/Tech69YT)
 84. [Cloud Security Podcast](https://www.youtube.com/c/CloudSecurityPodcast)
+85. [Acaditi (ptb-br)](https://www.youtube.com/c/ACADITI)
